@@ -1,0 +1,8 @@
+pandas
+pandas_datareader
+yfinance
+matplotlib
+tensorflow
+math
+sklearn.metrics
+numpy
